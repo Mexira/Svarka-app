@@ -1,0 +1,34 @@
+name: svarka
+description: Учебное приложение по сварке для студентов.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  path_provider: any
+  open_filex: any
+  share_plus: any
+  flutter:
+    sdk: flutter
+   
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/posters/
+    - assets/methodichki/
+    - assets/gosty/
+
