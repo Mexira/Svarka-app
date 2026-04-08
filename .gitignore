@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/build/
+/.dart_tool/
+/.idea/
+/android/.gradle/
+/android/app/build/
+/ios/Pods/
+/ios/.symlinks/
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+.pub-cache/
